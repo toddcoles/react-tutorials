@@ -6,15 +6,8 @@
       "id": 1
     },
     {
-      "title": "Other Stream",
-      "description": "THIS IS ANOTHER DESCRIPTION",
-      "userId": "114616587565654404498",
-      "id": 2
-    },
-    {
-      "title": "This is MY stream",
-      "description": "It should have my ID",
-      "userId": "114616587565654404498",
+      "title": "This is MY streamasdfasdf",
+      "description": "It should have my IDasdfasdf",
       "id": 3
     },
     {
@@ -22,6 +15,12 @@
       "description": "Programmatic navigation",
       "userId": "114616587565654404498",
       "id": 4
+    },
+    {
+      "title": "Thgis is the latest",
+      "description": "Here is the description",
+      "userId": "114616587565654404498",
+      "id": 5
     }
   ]
 }
